@@ -1,4 +1,4 @@
-# The Adventures of Mr. Scoots v0.3-alpha
+# The Adventures of Mr. Scoots v0.4-beta
 A simple platformer game made for learning Godot.
 
 THIS VERSION OF THE GAME IS PRE-RELEASED AND UNFINISHED. IT IS IN ALPHA STATE.
